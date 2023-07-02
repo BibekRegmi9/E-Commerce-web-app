@@ -1,6 +1,7 @@
 # NEP ORDER
 
-![neporder]
+![neporder] ![p3](https://github.com/BibekRegmi9/E-Commerce-web-app/assets/47585371/517f933a-ffd9-4ccf-a11d-ff48db78301f)
+
 
 
 
@@ -15,7 +16,7 @@ Welcome to my e-commerce website exactly like amazon. Open your code editor to b
 - Node & Express: Web API, Body Parser, File Upload, JWT
 - MongoDB: Mongoose, Aggregation
 - Development: ESLint, Babel, Git, Github,
-- Deployment: Heroku
+
 
 ## Run Locally
 
@@ -34,7 +35,7 @@ $ cd mern-amazona
 
 - Local MongoDB
   - Install it from [here](https://www.mongodb.com/try/download/community)
-  - In .env file update MONGODB_URI=mongodb://localhost/amazona
+  - In .env file update MONGODB_URI=mongodb://localhost/neporder
 - OR Atlas Cloud MongoDB
   - Create database at [https://cloud.mongodb.com](https://cloud.mongodb.com)
   - In .env file update MONGODB_URI=mongodb+srv://your-db-connection
@@ -68,16 +69,21 @@ $ npm start
 
 
 ## Sign In Page
+![p1](https://github.com/BibekRegmi9/E-Commerce-web-app/assets/47585371/cd340054-eb29-4810-95f6-02018d84b08a)
 
 
 
 ## SignUp Page
+![p2](https://github.com/BibekRegmi9/E-Commerce-web-app/assets/47585371/193ad912-d734-4518-839c-9e0aafb5a9af)
 
 
 ## Featured Product
+![p3](https://github.com/BibekRegmi9/E-Commerce-web-app/assets/47585371/d6d85653-e24a-4152-977b-233ac8d42032)
 
 
 ## Categories with Customer Review
+![p4](https://github.com/BibekRegmi9/E-Commerce-web-app/assets/47585371/cb5ca9ca-7499-40ae-970c-371b45013761)
 
 
 ## Update User Profile and logout
+![p5](https://github.com/BibekRegmi9/E-Commerce-web-app/assets/47585371/06933709-4523-4070-be70-5f839e3d422c)
