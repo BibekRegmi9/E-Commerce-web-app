@@ -1,6 +1,6 @@
 # NEP ORDER
 
-![neporder] ![p3](https://github.com/BibekRegmi9/E-Commerce-web-app/assets/47585371/517f933a-ffd9-4ccf-a11d-ff48db78301f)
+ [p3](https://github.com/BibekRegmi9/E-Commerce-web-app/assets/47585371/517f933a-ffd9-4ccf-a11d-ff48db78301f)
 
 
 
