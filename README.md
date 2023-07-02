@@ -23,8 +23,8 @@ Welcome to my e-commerce website exactly like amazon. Open your code editor to b
 ### 1. Clone repo
 
 ```
-$ git clone 
-$ cd mern-amazona
+$ git clone https://github.com/BibekRegmi9/E-Commerce-web-app.git
+$ cd E-Commerce-web-app
 ```
 
 ### 2. Create .env File
